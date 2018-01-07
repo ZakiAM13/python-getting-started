@@ -1,4 +1,4 @@
-import openpyxl, datetime, smtplib, imaplib, pyzmail, time, re
+import openpyxl, datetime, smtplib, imaplib, pyzmail, time, re, os
 from openpyxl.cell import get_column_letter, column_index_from_string
 from unidecode import unidecode
 from email.mime.multipart import MIMEMultipart
