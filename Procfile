@@ -1,1 +1,1 @@
-schedge: python task.py
+schedge: python SchedgeBot.py
